@@ -1,4 +1,4 @@
-#Heart Disease Prediction
+# Heart Disease Prediction
 
 Heart disease remains a leading cause of mortality worldwide, making early detection and accurate diagnosis critical for effective treatment and prevention. This project focuses on predicting the presence of heart disease in patients using a multivariate dataset containing 14 key attributes related to patient health.
 
